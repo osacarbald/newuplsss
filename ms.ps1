@@ -7,5 +7,5 @@ if ($id) {
     Write-Host "No ID was passed!" -ForegroundColor Red
 }
 
-# Your main script logic here
+# Your main script logic here ----
 Write-Host "Executing the hosted script..." -ForegroundColor Cyan
